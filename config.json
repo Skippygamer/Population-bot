@@ -1,0 +1,29 @@
+{
+    "Battlemetrics": {
+        "Bots": [
+            {
+                "ORGANIZATION_ID": "59930",
+                "BATTLEMETRICS_API_KEY": "your_api_key_1",
+                "BOT_TOKEN": "your_bot_token_1",
+                "SERVER_ID": "your_server_id_1",
+                "DISCORD_CONFIG": {
+                    "update_interval": 3,
+                    "type": "PLAYING",
+                    "status": "dnd"
+                }
+            },
+            {
+                "ORGANIZATION_ID": "another_organization_id",
+                "BATTLEMETRICS_API_KEY": "your_api_key_2",
+                "BOT_TOKEN": "your_bot_token_2",
+                "SERVER_ID": "another_server_id_1",
+                "DISCORD_CONFIG": {
+                    "update_interval": 5,
+                    "type": "WATCHING",
+                    "status": "online"
+                }
+            }
+            
+        ]
+    }
+}
