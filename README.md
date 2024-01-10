@@ -1,7 +1,47 @@
-# Population-bot
-Rust population bot
+## Setup Instructions
 
-![showcase1](https://github.com/Skippygamer/Population-bot/assets/67245767/7fa3e69a-f3fa-45b0-b5e4-5639e2d70c51)
+### Linux
 
+1. **Create a new directory**
+    ```shell
+    mkdir my-discord-bot
+    cd my-discord-bot
+    ```
 
-![showcase2](https://github.com/Skippygamer/Population-bot/assets/67245767/83533475-963a-4cd3-8502-d964a5541d86)
+2. **Initialize a new Node.js project**
+    ```shell
+    npm init -y
+    ```
+
+3. **Install dependencies**
+    ```shell
+    npm install discord.js node-fetch
+    ```
+
+4. **Start the bot**
+    ```shell
+    node index.js
+    ```
+
+### Windows
+
+1. **Create a new directory**
+    ```shell
+    mkdir my-discord-bot
+    cd my-discord-bot
+    ```
+
+2. **Initialize a new Node.js project**
+    ```shell
+    npm init -y
+    ```
+
+3. **Install dependencies**
+    ```shell
+    npm install discord.js node-fetch
+    ```
+
+4. **Start the bot**
+    ```shell
+    node index.js
+    ```
