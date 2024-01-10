@@ -37,7 +37,7 @@ config.Battlemetrics.Bots.forEach(async (Bot) => {
                 let maxPlayers = 0;
                 let Status = "";
     
-                console.log("Part 1");
+                //console.log("Part 1");
     
                 // Fetch server information from BattleMetrics API
                 let response = await fetch(`https://api.battlemetrics.com/servers/${Bot.SERVER_ID}`, { headers: { 'Authorization': `Bearer ${Bot.BATTLEMETRICS_API_KEY}` } });
