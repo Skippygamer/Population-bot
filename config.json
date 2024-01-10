@@ -8,8 +8,7 @@
                 "SERVER_ID": "16345033",
                 "DISCORD_CONFIG": {
                     "update_interval": 0.50,
-                    "type": "WATCHING",
-                    "status": "online"
+                    "type": "WATCHING"
                 }
             },
 
@@ -20,8 +19,7 @@
                 "SERVER_ID": "16345033",
                 "DISCORD_CONFIG": {
                     "update_interval": 0.50,
-                    "type": "WATCHING",
-                    "status": "online"
+                    "type": "WATCHING"
                 }
             }
             
